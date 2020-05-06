@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+
+title: "no-news"
+description: "Because no news (especially these days) is good news..."
+show-downloads: false
