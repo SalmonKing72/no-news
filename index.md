@@ -6,4 +6,4 @@
 #### LinkedIn
 
 <p>Remove side-bar news content on your home screen</p>
-<a href="javascript:(function(){document.querySelectorAll('.feed-shared-news-module').forEach(newsItem => newsItem.style.display = 'none');})();">no-news-linkedin</a>
+<a href="javascript:(function(){document.querySelectorAll('.feed-shared-news-module, .news-module').forEach(newsItem => newsItem.style.display = 'none');})();">no-news-linkedin</a>
